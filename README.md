@@ -38,9 +38,7 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 ### 🐍 The Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
+   <img src="https://raw.githubusercontent.com/kuldeeppatel-cg/kuldeeppatel-cg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   </picture>
 </p>
 
@@ -62,10 +60,6 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/@patelkuldeep07" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://your-portfolio-website.com" target="_blank">
