@@ -47,12 +47,33 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 ---
 
 ## 📬 Connect With Me
+---
+
+## 📬 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[YOUR_EMAIL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR_TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="mailto:kuldeep.patel.cg@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kuldeep-patel07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/@patelkuldeep07" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=website&theme=dark" alt="Portfolio" height="40" />
+  </a>
 </p>
 
+---
 <br />
 
 <p align="center">
