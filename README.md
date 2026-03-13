@@ -29,6 +29,7 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 
 ---
 
+
 ## 📈 GitHub Stats & Activity
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuldeeppatel-cg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -42,9 +43,6 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
   </picture>
 </p>
 
----
-
-## 📬 Connect With Me
 ---
 
 ## 📬 Connect With Me
@@ -70,6 +68,4 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 ---
 <br />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
+>
