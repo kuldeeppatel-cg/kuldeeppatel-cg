@@ -9,40 +9,6 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 - 🤝 Open to collaborating on **Open Source projects & Innovative Startups**
 
 ---
-
-## 🛠 My Tech Stack
-
-### 🎨 Frontend & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,prisma" alt="Backend Skills" />
-</p>
-
-### 🧰 Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux" alt="Tools" />
-</p>
-
----
-
-
-## 📈 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuldeeppatel-cg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepPatel&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🐍 The Contribution Snake
-<p align="center">
-  <picture>
-   <img src="https://raw.githubusercontent.com/kuldeeppatel-cg/kuldeeppatel-cg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  </picture>
-</p>
-
 ---
 
 ## 📬 Connect With Me
@@ -66,6 +32,40 @@ I am a passionate **Full Stack Developer** with a knack for building end-to-end 
 </p>
 
 ---
+## 🛠 My Tech Stack
+
+### 🎨 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,prisma" alt="Backend Skills" />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux" alt="Tools" />
+</p>
+
+---
+
+
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuldeeppatel-cg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepPatel&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🐍 The Contribution Snake
+<p align="center">
+  <picture>
+   <img src="https://raw.githubusercontent.com/kuldeeppatel-cg/kuldeeppatel-cg/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </picture>
+</p>
+
+
 <br />
 
 >
